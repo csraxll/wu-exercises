@@ -1,0 +1,405 @@
+{
+  "id": 0,
+  "purchases": [
+    {
+      "product_id": 32,
+      "purchase_date": "2017-05-21T05:13:36"
+    },
+    {
+      "product_id": 65,
+      "purchase_date": "2015-09-09T10:18:57"
+    },
+    {
+      "product_id": 92,
+      "purchase_date": "2016-09-23T08:16:04"
+    },
+    {
+      "product_id": 78,
+      "purchase_date": "2018-12-14T04:40:26"
+    },
+    {
+      "product_id": 6,
+      "purchase_date": "2014-09-13T03:20:26"
+    },
+    {
+      "product_id": 83,
+      "purchase_date": "2019-02-09T06:27:25"
+    },
+    {
+      "product_id": 68,
+      "purchase_date": "2016-10-23T06:14:33"
+    },
+    {
+      "product_id": 31,
+      "purchase_date": "2014-09-16T05:03:38"
+    },
+    {
+      "product_id": 16,
+      "purchase_date": "2016-08-22T12:38:06"
+    },
+    {
+      "product_id": 66,
+      "purchase_date": "2020-02-23T03:06:13"
+    },
+    {
+      "product_id": 19,
+      "purchase_date": "2020-03-22T06:48:25"
+    },
+    {
+      "product_id": 41,
+      "purchase_date": "2015-06-03T09:20:23"
+    },
+    {
+      "product_id": 10,
+      "purchase_date": "2018-01-05T07:14:58"
+    },
+    {
+      "product_id": 81,
+      "purchase_date": "2016-03-26T06:37:06"
+    },
+    {
+      "product_id": 0,
+      "purchase_date": "2017-12-22T07:06:05"
+    },
+    {
+      "product_id": 82,
+      "purchase_date": "2018-04-14T07:14:52"
+    },
+    {
+      "product_id": 36,
+      "purchase_date": "2020-06-20T11:25:15"
+    },
+    {
+      "product_id": 41,
+      "purchase_date": "2015-09-11T01:35:49"
+    },
+    {
+      "product_id": 62,
+      "purchase_date": "2017-03-05T09:20:55"
+    },
+    {
+      "product_id": 20,
+      "purchase_date": "2018-11-09T01:05:01"
+    },
+    {
+      "product_id": 35,
+      "purchase_date": "2017-12-23T08:53:12"
+    },
+    {
+      "product_id": 2,
+      "purchase_date": "2020-03-31T03:54:59"
+    },
+    {
+      "product_id": 52,
+      "purchase_date": "2016-04-25T03:00:57"
+    },
+    {
+      "product_id": 24,
+      "purchase_date": "2015-07-30T07:46:16"
+    },
+    {
+      "product_id": 23,
+      "purchase_date": "2017-08-21T10:30:57"
+    },
+    {
+      "product_id": 15,
+      "purchase_date": "2018-09-08T07:04:04"
+    },
+    {
+      "product_id": 85,
+      "purchase_date": "2019-04-09T09:57:35"
+    },
+    {
+      "product_id": 44,
+      "purchase_date": "2016-03-21T02:07:39"
+    },
+    {
+      "product_id": 21,
+      "purchase_date": "2016-01-14T10:01:30"
+    },
+    {
+      "product_id": 26,
+      "purchase_date": "2019-05-19T10:02:53"
+    },
+    {
+      "product_id": 65,
+      "purchase_date": "2019-12-14T03:55:59"
+    },
+    {
+      "product_id": 44,
+      "purchase_date": "2019-12-28T12:07:22"
+    },
+    {
+      "product_id": 0,
+      "purchase_date": "2019-01-12T08:32:03"
+    },
+    {
+      "product_id": 55,
+      "purchase_date": "2020-03-07T06:28:27"
+    },
+    {
+      "product_id": 93,
+      "purchase_date": "2019-07-03T12:15:11"
+    },
+    {
+      "product_id": 25,
+      "purchase_date": "2017-01-30T10:12:13"
+    },
+    {
+      "product_id": 91,
+      "purchase_date": "2015-03-01T11:42:48"
+    },
+    {
+      "product_id": 97,
+      "purchase_date": "2016-12-17T09:26:34"
+    },
+    {
+      "product_id": 29,
+      "purchase_date": "2015-04-26T12:19:21"
+    },
+    {
+      "product_id": 49,
+      "purchase_date": "2020-04-30T02:01:46"
+    },
+    {
+      "product_id": 45,
+      "purchase_date": "2018-02-09T06:42:38"
+    },
+    {
+      "product_id": 87,
+      "purchase_date": "2018-03-07T01:40:30"
+    },
+    {
+      "product_id": 45,
+      "purchase_date": "2019-04-03T07:24:04"
+    },
+    {
+      "product_id": 51,
+      "purchase_date": "2016-12-18T09:23:18"
+    },
+    {
+      "product_id": 21,
+      "purchase_date": "2019-12-29T07:01:57"
+    },
+    {
+      "product_id": 63,
+      "purchase_date": "2015-06-01T12:30:25"
+    },
+    {
+      "product_id": 98,
+      "purchase_date": "2019-10-26T03:13:37"
+    },
+    {
+      "product_id": 32,
+      "purchase_date": "2014-12-01T11:07:08"
+    },
+    {
+      "product_id": 60,
+      "purchase_date": "2020-07-16T07:41:55"
+    },
+    {
+      "product_id": 14,
+      "purchase_date": "2018-06-03T03:46:08"
+    },
+    {
+      "product_id": 19,
+      "purchase_date": "2014-11-19T01:14:47"
+    },
+    {
+      "product_id": 38,
+      "purchase_date": "2014-02-18T11:41:20"
+    },
+    {
+      "product_id": 0,
+      "purchase_date": "2018-02-21T05:07:24"
+    },
+    {
+      "product_id": 39,
+      "purchase_date": "2017-10-19T08:19:46"
+    },
+    {
+      "product_id": 48,
+      "purchase_date": "2018-11-03T11:36:36"
+    },
+    {
+      "product_id": 35,
+      "purchase_date": "2017-07-05T11:18:36"
+    },
+    {
+      "product_id": 15,
+      "purchase_date": "2015-01-13T12:58:36"
+    },
+    {
+      "product_id": 74,
+      "purchase_date": "2017-10-13T12:49:06"
+    },
+    {
+      "product_id": 33,
+      "purchase_date": "2020-07-11T03:19:32"
+    },
+    {
+      "product_id": 24,
+      "purchase_date": "2014-11-19T12:34:00"
+    },
+    {
+      "product_id": 33,
+      "purchase_date": "2017-12-24T06:36:56"
+    },
+    {
+      "product_id": 80,
+      "purchase_date": "2015-04-14T04:49:00"
+    },
+    {
+      "product_id": 59,
+      "purchase_date": "2015-02-11T07:22:16"
+    },
+    {
+      "product_id": 99,
+      "purchase_date": "2015-01-07T06:01:52"
+    },
+    {
+      "product_id": 57,
+      "purchase_date": "2020-06-24T02:15:47"
+    },
+    {
+      "product_id": 86,
+      "purchase_date": "2019-08-27T07:38:49"
+    },
+    {
+      "product_id": 13,
+      "purchase_date": "2014-10-20T10:03:17"
+    },
+    {
+      "product_id": 36,
+      "purchase_date": "2017-01-03T12:04:07"
+    },
+    {
+      "product_id": 30,
+      "purchase_date": "2016-02-06T12:52:12"
+    },
+    {
+      "product_id": 29,
+      "purchase_date": "2015-05-28T02:27:47"
+    },
+    {
+      "product_id": 100,
+      "purchase_date": "2016-07-31T07:12:05"
+    },
+    {
+      "product_id": 48,
+      "purchase_date": "2016-06-02T11:23:21"
+    },
+    {
+      "product_id": 2,
+      "purchase_date": "2015-06-19T12:44:39"
+    },
+    {
+      "product_id": 90,
+      "purchase_date": "2015-01-12T08:35:32"
+    },
+    {
+      "product_id": 63,
+      "purchase_date": "2019-02-20T06:12:17"
+    },
+    {
+      "product_id": 14,
+      "purchase_date": "2014-01-21T01:50:06"
+    },
+    {
+      "product_id": 9,
+      "purchase_date": "2020-03-15T06:48:43"
+    },
+    {
+      "product_id": 53,
+      "purchase_date": "2014-04-05T07:22:30"
+    },
+    {
+      "product_id": 33,
+      "purchase_date": "2016-01-06T10:29:49"
+    },
+    {
+      "product_id": 96,
+      "purchase_date": "2018-04-14T03:37:47"
+    },
+    {
+      "product_id": 95,
+      "purchase_date": "2019-12-05T04:39:19"
+    },
+    {
+      "product_id": 23,
+      "purchase_date": "2015-02-04T03:46:29"
+    },
+    {
+      "product_id": 13,
+      "purchase_date": "2017-04-13T12:29:23"
+    },
+    {
+      "product_id": 28,
+      "purchase_date": "2017-11-28T10:52:37"
+    },
+    {
+      "product_id": 38,
+      "purchase_date": "2016-03-01T12:52:13"
+    },
+    {
+      "product_id": 19,
+      "purchase_date": "2015-12-01T03:10:01"
+    },
+    {
+      "product_id": 46,
+      "purchase_date": "2017-05-11T04:39:19"
+    },
+    {
+      "product_id": 91,
+      "purchase_date": "2018-03-02T10:02:45"
+    },
+    {
+      "product_id": 26,
+      "purchase_date": "2015-07-24T07:45:49"
+    },
+    {
+      "product_id": 32,
+      "purchase_date": "2019-01-02T12:55:00"
+    },
+    {
+      "product_id": 47,
+      "purchase_date": "2014-03-02T12:27:29"
+    },
+    {
+      "product_id": 78,
+      "purchase_date": "2016-04-20T04:29:56"
+    },
+    {
+      "product_id": 96,
+      "purchase_date": "2018-06-29T02:06:22"
+    },
+    {
+      "product_id": 39,
+      "purchase_date": "2019-02-27T02:31:17"
+    },
+    {
+      "product_id": 8,
+      "purchase_date": "2018-06-06T03:51:38"
+    },
+    {
+      "product_id": 86,
+      "purchase_date": "2017-01-10T11:46:52"
+    },
+    {
+      "product_id": 36,
+      "purchase_date": "2019-07-17T12:04:40"
+    },
+    {
+      "product_id": 20,
+      "purchase_date": "2017-02-22T05:04:35"
+    },
+    {
+      "product_id": 51,
+      "purchase_date": "2018-02-07T12:46:44"
+    },
+    {
+      "product_id": 34,
+      "purchase_date": "2017-08-02T08:56:03"
+    }
+  ]
+}
